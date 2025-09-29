@@ -1,4 +1,4 @@
-﻿namespace prvniprojekty2
+﻿namespace KamenNuzkyPapir
 {
     internal class programprvni
     {
