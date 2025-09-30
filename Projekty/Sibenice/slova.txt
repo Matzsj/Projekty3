@@ -1,0 +1,5 @@
+auto
+strom
+program
+pocitac
+banan
