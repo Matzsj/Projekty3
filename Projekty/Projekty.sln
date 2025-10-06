@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekty", "Projekty.csproj", "{7874DD28-28E1-4A14-86F8-2F444DD25BAF}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piskvorky", "Piskvorky\Piskvorky.csproj", "{C719A2AF-FC6E-4E17-8636-2CFA13427001}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sibenice", "Sibenice\Sibenice.csproj", "{707CB09A-120B-4EE4-BD60-C160FECC3833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zrcadlovy_rezim", "..\Zrcadlovy_rezim\Zrcadlovy_rezim.csproj", "{A3C5F078-7991-4F42-AE97-85DA15012DCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{707CB09A-120B-4EE4-BD60-C160FECC3833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{707CB09A-120B-4EE4-BD60-C160FECC3833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{707CB09A-120B-4EE4-BD60-C160FECC3833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
