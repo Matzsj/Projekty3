@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Zrcadlovy rezim
+namespace Zrcadlovy_rezim
 {
     public class Game1 : Game
     {

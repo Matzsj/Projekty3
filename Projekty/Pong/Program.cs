@@ -1,2 +1,13 @@
-﻿using var game = new Pong.Game1();
-game.Run();
+﻿using Pong;
+
+namespace Pong
+{
+
+    class Program
+    {
+        static void Main()
+        {
+            new Game1().Run();
+        }
+    }
+}

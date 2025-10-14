@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sibenice", "Sibenice\Sibeni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zrcadlovy_rezim", "Zrcadlovy_rezim\Zrcadlovy_rezim.csproj", "{A3C5F078-7991-4F42-AE97-85DA15012DCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong\Pong.csproj", "{3965FCFD-3CA2-44F4-B7A2-6E5D8726B6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3C5F078-7991-4F42-AE97-85DA15012DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3965FCFD-3CA2-44F4-B7A2-6E5D8726B6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3965FCFD-3CA2-44F4-B7A2-6E5D8726B6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3965FCFD-3CA2-44F4-B7A2-6E5D8726B6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3965FCFD-3CA2-44F4-B7A2-6E5D8726B6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
