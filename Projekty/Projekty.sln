@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piskvorky", "Piskvorky\Pisk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sibenice", "Sibenice\Sibenice.csproj", "{707CB09A-120B-4EE4-BD60-C160FECC3833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zrcadlovy_rezim", "..\Zrcadlovy_rezim\Zrcadlovy_rezim.csproj", "{A3C5F078-7991-4F42-AE97-85DA15012DCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zrcadlovy_rezim", "Zrcadlovy_rezim\Zrcadlovy_rezim.csproj", "{A3C5F078-7991-4F42-AE97-85DA15012DCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
